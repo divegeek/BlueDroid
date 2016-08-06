@@ -21,6 +21,7 @@ Future plans include:
   * Pause and resume of regularly-scheduled programs
   * Adjustment of conservation features
   * View of recent run history, including water usage (if configured).
+* Publication on Google Play 
 
 
 ---
