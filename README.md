@@ -21,3 +21,7 @@ Future plans include:
   * Pause and resume of regularly-scheduled programs
   * Adjustment of conservation features
   * View of recent run history, including water usage (if configured).
+
+
+---
+_BlueSpray™ is a trademark of Avidz LLC, 11900 Jollyvile Road #203051, Austin, TX 78720_. This app has no affiliation with Avidz.
