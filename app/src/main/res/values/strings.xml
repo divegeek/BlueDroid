@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlueDroid</string>
+    <string name="unknown_door_state">Unknown</string>
+</resources>
