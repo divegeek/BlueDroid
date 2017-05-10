@@ -16,7 +16,7 @@ import java.text.DateFormat;
 
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "bluespray";
-    public static final int WAIT_FOR_OPEN_CLOSE_MILLIS = 3000;
+    public static final int WAIT_FOR_OPEN_CLOSE_MILLIS = 14000;
     private final static int SLOW_DOOR_POLL_INTERVAL = 20 * 1000;
     private final static int FAST_DOOR_POLL_INTERVAL = 1000;
     private static final long MAX_OPEN_CLOSE_WAIT_TIME = 10 * 1000;
